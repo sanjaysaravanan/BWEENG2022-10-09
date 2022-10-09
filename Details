@@ -1,0 +1,25 @@
+Topics:
+
+  Window - Common Utility functions
+
+    Alert -> inform/alert something to the user which has no effect
+    
+    prompt -> Input from the user to JS memory as string
+    
+    confirm -> confirmation from user to decide the flow app
+
+    storage methods/functions: 
+      setItem, getItem, removeItem
+    
+    local storage
+      The localstorage object stores data permanent. (The data is deleted only user does it manually or via code).
+
+    session storage
+      The sessionStorage object stores data for only one session. (The data is deleted when the browser is closed).
+
+    setTimeout -> Execute a set of statements after specific milliseconds
+    clearTimeout -> clearing a timeout before it is timing out
+    
+    setInterval -> Execute a set of statments repeatedly/frequently with specific interval in milliseconds
+
+  working with events
