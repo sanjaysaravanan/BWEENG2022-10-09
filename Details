@@ -5,11 +5,13 @@ Topics:
     Alert -> inform/alert something to the user which has no effect
     
     prompt -> Input from the user to JS memory as string
+      return string
     
     confirm -> confirmation from user to decide the flow app
+      return boolean
 
     storage methods/functions: 
-      setItem, getItem, removeItem
+      setItem --> key, value, getItem -> key, removeItem -> key
     
     local storage
       The localstorage object stores data permanent. (The data is deleted only user does it manually or via code).
@@ -21,5 +23,6 @@ Topics:
     clearTimeout -> clearing a timeout before it is timing out
     
     setInterval -> Execute a set of statments repeatedly/frequently with specific interval in milliseconds
+    clearInterval -> clearing a interval
 
   working with events
